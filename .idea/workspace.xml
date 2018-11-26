@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3730fc40-0fad-45fc-a4f8-2a8bfb046661" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-01/basic-html-page-no-content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-01/basic-html-page-with-2nd-paragraph.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-01/basic-html-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-01/blueflax.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-01/page-text-content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/article-with-footer-and-comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/aside-nested.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/aside-with-nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/aside.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/common/css/div-none-but-page-styled.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/common/css/div-with-more-styling.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/div-no-page-styling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/div-none-but-page-styled.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/div-with-more-styling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/footer-larger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/footer-nested-in-article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/header-two-header-elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/headings-h1-h6-default-display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/headings-subheading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/headings-user-guide.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/headings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/img/dragon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/img/towers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/main-content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/naming-with-class-id.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/nav-deeper-look.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/section-graduation-program.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/section-news-site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/starting-web-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/structure-final.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/title-attribute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-03/title-element.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/abbreviations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/author-contact-information.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/bdi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/creating-a-figure-styled.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/creating-a-figure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/creating-line-break-opportunity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/creating-line-break.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/creating-spans.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/css/figure-styled.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/defining-instance-of-term.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/highlighting-text-example2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/highlighting-text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/img/chart-revenue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/important-and-emphasized-text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/indicating-a-citation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/indicating-progress-example2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/indicating-progress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/kbd-samp-var.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/marking-up-code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/noting-edits-del-ins-example2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/noting-edits-del-ins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/noting-inaccurate-text-s.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/paragraphs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/preformatted-text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/quoting-text-blockquote-in-figure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/quoting-text-blockquote.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/quoting-text-q-nested.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/quoting-text-q.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/ruby-annotations-example2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/ruby-annotations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/specifying-fine-print.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/specifying-time-as-article-date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/specifying-time.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/superscripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/unarticulated-text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-04/using-meter-to-provide-gauge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/alternative-text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/corner-market.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/css/ftpodcasts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/inserting-an-image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/logo-ftp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/scaling-image-after.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/scaling-image-before.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/size-big.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/size-small.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/specifying-img-size.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/stupas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/transparency-stars-blue-bg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/transparency-stars-red-gradient-bg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/yellowstone-pools-2048x1536.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-05/yellowstone-pools-400x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/anchor-links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/block-level-link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/giraffe-escapes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/img/blueflax.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/img/cookie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/img/woody.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/link-to-page-on-another-site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/link-to-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/media/paddle-steamer.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/media/piano.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/other-kinds-of-links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-06/pioneer-valley.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/constructing-a-rule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/css/css-comments.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/css/hsla.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/css/inheritance.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/css/rgba-with-opaque-fallback-in-same-rule.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/css/rgba.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/css/specificity.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/hsla.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/img/bg-pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/img/blueflax.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/inheritance-not-styled.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/inheritance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/rgba.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-07/specificity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/apply-inline-style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/base-styles-plus-media-print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/base-styles-plus-media-print.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/class-instead-of-inline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/class-instead-of-inline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/create-embedded-style-sheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/img/palau.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/img/sunflowers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/img/tickets.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/importance-of-location-example2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/importance-of-location.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/link-external-style-sheet-example2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/link-external-style-sheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/media-specific-style-sheets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-08/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/combining-selectors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/adjacent-sibling-combinator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/attribute-selector.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/child-selector.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/class-two-classes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/class.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/combining-selectors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/context.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/first-child.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/first-letter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/first-line.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/groups.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/id.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/last-child.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/links-by-state.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/css/name.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-adjacent-sibling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-attribute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-child-selector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-class-two-classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-context.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-element-name.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-first-child.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-first-letter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-first-line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-id.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-by-last-child.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-09/select-links-by-state.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/aligning-text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/background-color-figa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/background-color-figc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/background-color-plus-padding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/background-img-fixed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/background-img-position.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/background-img-repeat-x-black-bg-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/background-img-repeat-x-black-bg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/background-img-repeat-x-white-bg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/background-img-repeat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/background-img-scroll.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/color.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/aligning-text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/background-color-figa.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/background-color-figc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/background-color-plus-padding.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/background-img-position.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/background-img-repeat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/color.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/font-family-alternate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/font-family.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/font-shorthand.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/font-size-ems.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/font-size-pixels.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/font-size-rems.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/font-style-italic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/font-weight-bold.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/letter-spacing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/line-height.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/small-caps.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/text-case.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/text-decoration.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/text-indent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/css/whitespace.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/font-family-alternate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/font-family.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/font-shorthand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/font-size-ems.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/font-size-pixels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/font-size-rems.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/font-style-italic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/font-weight-bold-numeric-weights.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/font-weight-bold.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/backlight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/bg-pattern.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/bluemosaic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/claw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/dove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/dragon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/glass.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/greenbubbles.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/guelltower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/mack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/redbubbles.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/sky.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/tilepieces.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/towers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/img/ufo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/letter-spacing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/line-height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/no-styles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/real-bold-vs-faux-bold.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/real-italic-vs-faux-italic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/small-caps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/text-case.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/text-decoration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/text-final.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/text-indent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-10/whitespace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/border-styles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/css/font/socialico-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/css/font/socialico-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/css/font/socialico-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/css/html5-elements-styling.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/css/lejournal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/css/vertical-align.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/finished-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/html5-elements-styling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/img/about-me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/img/btn-go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/img/gettyvilla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/img/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/img/victoria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/no-styles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/normalize.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/overflow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-11/vertical-align.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/css/font/socialico-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/css/font/socialico-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/css/font/socialico-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/css/lejournal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/finished-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/img/about-me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/img/gettyvilla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/img/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/img/victoria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-12/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS55F-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS55F-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS55F-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS56F-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS56F-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS56F-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS75F-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS75F-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS75F-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS76F-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS76F-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/css/font/PTS76F-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example-organized/styling-text-with-web-font.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS55F-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS55F-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS55F-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS56F-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS56F-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS56F-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS75F-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS75F-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS75F-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS76F-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS76F-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/PTS76F-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/example-regular-italic-bold-and-bolditalic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/example-regular-italic-bold-and-bolditalic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/example-regular-italic-bold.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/example-regular-italic-bold.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/example-regular-italic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/example-regular-italic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/example-regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/example-regular.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/font-squirrel-example/understanding-font-face.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/google-fonts-example/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-13/google-fonts-example/using-google-web-font.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/box-shadow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/box-shadow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/generated-content-bubble-triangle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/gradients.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/multiple-backgrounds-shorthand.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/multiple-backgrounds.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/opacity-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/opacity-example-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/opacity-example-3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/opacity-plus-ie-filter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/rounded-corners-more-examples.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/rounded-corners.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/sprite-without.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/sprite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/css/text-shadow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/generated-content-arrows.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/generated-content-bubble-triangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/generated-content-without.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/gradients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/img/about-me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/img/camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/img/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/img/sky.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/img/sleeves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/img/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/img/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/img/ufo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/multiple-backgrounds-shorthand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/multiple-backgrounds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/opacity-default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/opacity-example-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/opacity-example-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/opacity-plus-ie-filter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/rounded-corners-more-examples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/rounded-corners.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/sprite-without.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/sprite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-14/text-shadow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/choosing-where-to-start-numbering.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/choosing-your-markers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/controlling-where-markers-hang-default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/controlling-where-markers-hang-inside.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/css/description-list-nested.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/css/dropdown-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/css/nested-lists-with-classes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/css/nested-lists.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/css/unordered-list-spacing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/css/using-custom-markers-step1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/css/using-custom-markers-step2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/css/using-custom-markers-step3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/description-list-multiple-dts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/description-list-nested.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/description-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/dropdown-nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/img/checkmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/nested-lists-with-classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/nested-lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/ordered-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/setting-all-list-style-properties.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/unordered-list-spacing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/unordered-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/using-custom-markers-step1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/using-custom-markers-step2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-15/using-custom-markers-step3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-16/css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-16/disabled.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-16/email-data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-16/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-16/js/toggle-textarea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-16/show-data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/audio-flash-fallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/audio-with-sources-and-link-fallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/bigplay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/bigplay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/controls-ted.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/controls-wmp-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/controls-wmp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/controls.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/flashmediaelement.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/mediaelement-and-player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/mediaelement-and-player.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/mediaelement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/mediaelement.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/mediaelementplayer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/mediaelementplayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/mediaelementplayer.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/mediaelementplayer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/mejs-skins.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/build/silverlightmediaelement.xap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/mediaelementplayer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/mp4-video-with-autoplay-loop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/ogg-audio-with-autoplay-controls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/ogg-audio-with-controls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/ogg-audio-with-loop-controls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/ogg-audio-with-preload-metadata.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/ogg-audio-with-preload-none.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/paddle-steamer-poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/paddle-steamer.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/paddle-steamer.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/piano.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/piano.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/video-and-audio-flash-fallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/video-audio-flash-fallback-add-file-to-head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/video-flash-fallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/video-with-sources-and-text-link-fallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/webm-video-with-autoplay-loop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/webm-video-with-controls-autoplay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/webm-video-with-controls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/webm-video-with-dimensions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/webm-video-with-poster-image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/webm-video-with-preload-metadata.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/webm-video-with-preload-none.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-17/webm-video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-18/css/table-evolved-and-styled.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-18/css/table-with-colspan-rowspan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-18/table-evolved-and-styled.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-18/table-evolved.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-18/table-with-colspan-rowspan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-18/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-19/behavior.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-19/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-19/embedded-before-body-end-tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-19/embedded-in-head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-19/js/behavior.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-19/js/sample-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-19/js/sample-script.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-19/load-before-body-end-tag-subfolder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-19/load-before-body-end-tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-19/load-in-head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/css/font/socialico-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/css/font/socialico-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/css/font/socialico-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/css/victoria.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/h1-error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/h1-fixed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/image-displays.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/image-does-not-display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/img/about-me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/img/gettyvilla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/img/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/img/victoria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/chapter-20/testing-your-page-error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/css/code-examples.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/img/cover-sm-htmlcssvqs-8ed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookcode/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cp01.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="943057372">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cp01.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="67" />
+    <option name="width" value="1228" />
+    <option name="height" value="756" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HtmlAndCss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HtmlAndCss" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3730fc40-0fad-45fc-a4f8-2a8bfb046661" name="Default Changelist" comment="" />
+      <created>1543218816662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543218816662</updated>
+      <workItem from="1543218818185" duration="977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="977000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1373" height="875" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2539563" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="NativeScript" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33020133" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Nativescript Palette" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cp01.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
